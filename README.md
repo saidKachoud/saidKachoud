@@ -10,7 +10,7 @@
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=saidkachoud&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=saidkachoud&theme=dark&hide_border=false)<br/>
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=saidKachoud&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&hide=css,html,Blade)
+<!-- ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=saidKachoud&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&hide=css,html,Blade) -->
 
 
 
